@@ -1,0 +1,6 @@
+@DogsSanctuary_HostAddress = http://localhost:5072
+
+GET {{DogsSanctuary_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
