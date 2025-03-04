@@ -39,3 +39,4 @@ C:\git\APISample.DogsSanctuary\DogsSanctuary\DogsSanctuary\bin\Debug\net8.0\Micr
 C:\git\APISample.DogsSanctuary\DogsSanctuary\DogsSanctuary\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\git\APISample.DogsSanctuary\DogsSanctuary\DogsSanctuary\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\git\APISample.DogsSanctuary\DogsSanctuary\DogsSanctuary\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\git\APISample.DogsSanctuary\DogsSanctuary\DogsSanctuary\obj\Debug\net8.0\DogsSanctuary.sourcelink.json

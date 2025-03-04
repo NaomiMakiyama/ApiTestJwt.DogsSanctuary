@@ -1,7 +1,9 @@
+namespace DogsSanctuary.Db;
+
 public class Dog
 {
-    public int Id { get; set; }
-    public string DogName { get; set; }
-    public string Breed { get; set; }
-    public string BestFriend { get; set; }
+    public required string DogName { get; init; }
+    public string? Breed { get; init; }
+    public required string BestFriend { get; init; }
+    public Characteristic[] Characteristics { get; init; } = null!;
 }
